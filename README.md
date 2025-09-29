@@ -48,7 +48,8 @@ Model Waveform
 <img width="703" height="679" alt="image" src="https://github.com/user-attachments/assets/e7c7c7f8-ccf2-41ac-b1f3-325989941a6f" />
 
 Program
-``
+
+
 Am=5.4;
 
 fm=425;
@@ -82,13 +83,17 @@ S=S1-S2;
 subplot(3,1,3);
 
 plot(t,S);
-``
+
+
 Output Graph
 
 <img width="1366" height="616" alt="image" src="https://github.com/user-attachments/assets/ca076d95-940d-447b-9a4d-9cdd0eb4a5f2" />
 
 
 Tablular Column
+
+
+![dsbsc](https://github.com/user-attachments/assets/57e32856-0f34-42d0-af6b-a325c351d0b6)
 
 
 Result
