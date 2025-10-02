@@ -93,7 +93,7 @@ Output Graph
 Tablular Column
 
 
-![dsbsc](https://github.com/user-attachments/assets/57e32856-0f34-42d0-af6b-a325c351d0b6)
+![dsbsc](https://github.com/user-attachments/assets/cc699bcf-5ced-4a53-9f51-60aa47a492ff)
 
 
 Result
