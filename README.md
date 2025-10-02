@@ -96,6 +96,7 @@ Tablular Column
 ![dsbsc](https://github.com/user-attachments/assets/cc699bcf-5ced-4a53-9f51-60aa47a492ff)
 
 
+
 Result
 
 Thus the DSB-SC-AM Modulation and Demodulation is generated.
